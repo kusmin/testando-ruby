@@ -52,8 +52,8 @@ end
 puts "digitar algum valor"
 varlor3 = gets.chomp.to_i
 
-unless valor3 == 100
+unless valor == 100
     puts "O valor não é 100"
 end
 
-puts "Eu sou maior que 50" if valor3 > 100
+puts "Eu sou maior que 50" if valor > 100
