@@ -12,3 +12,9 @@ p soma
 p 5 + 2
 p 5.send("+", 3)
 puts 5.object_id
+
+
+p 10 + 5
+
+p 10.even?
+p 10.odd?
